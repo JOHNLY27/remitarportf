@@ -108,7 +108,7 @@ export default function Home() {
         <div className="contact-grid">
           <div className="contact-info">
             <p>If you'd like to get in touch, send a message below or reach out via email.</p>
-            <p><strong>Email:</strong> <a href="mailto:john@example.com">john@example.com</a></p>
+            <p><strong>Email:</strong> <a href="mailto:remitarjohnlydrick@gmail.com">remitarjohnlydrick@gmail.com</a></p>
             <p><strong>Location:</strong> Philippines</p>
           </div>
           <div className="contact-form-wrap">
